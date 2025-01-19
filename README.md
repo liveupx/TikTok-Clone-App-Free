@@ -1,4 +1,6 @@
 # TikTok Clone - Short Video Sharing App
+![TikTok Clone](img/Tik-Tok-Clone.png)
+
 
 ## 🎥 Overview
 This repository contains the source code for a **TikTok Clone**, a feature-rich short video sharing platform. Built with scalability, customization, and user engagement in mind, this app is perfect for businesses aiming to enter the competitive social media market.  
